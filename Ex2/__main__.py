@@ -1,4 +1,4 @@
-from algorithmic import (is_sorted_polyndrom,pythagorean_triplet_by_sum,manipulate,
+from algorithmic import (is_sorted_polyndrom, pythagorean_triplet_by_sum, manipulate,
                          num_len, reverse_n_pi_digits)
 
 if __name__ == '__main__':

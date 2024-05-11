@@ -112,14 +112,19 @@ namespace OOP
 
         public static int SumLetters(long number)
         {
-            int count_words = 0;
-            for (long i = 0; i < number; i++)
+            int count_letters = 0;
+            for (long i = 0; i <= number; i++)
             {
-                string words = new NumericalExpression(i).ToString();
-                Array words_arr = words.Split(' ');
-                count_words += words_arr.Length;
+                string words = new NumericalExpression(i).ToString().Replace(" ","");
+                count_letters += words.Length;
             }
-            return count_words;
+            return count_letters;
+        }
+
+        // The principle reflected in creating a similar function that accepts a different instance is polymorphism
+        public static int SumLetters(NumericalExpression number)
+        {
+            return SumLetters(number.GetValue());
         }
 
 

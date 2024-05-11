@@ -30,8 +30,11 @@ class Program
         long number = 111999;
         NumericalExpression tryLo  = new NumericalExpression(number);
         Console.WriteLine($"{number} : {tryLo.ToString()}");
-        Console.WriteLine("sum letters of 9:");
-        Console.WriteLine($"{NumericalExpression.SumLetters(9)}");
-        
+        Console.WriteLine("sum letters of 2:");
+        Console.WriteLine($"{NumericalExpression.SumLetters(2)}");
+        NumericalExpression new_number = new NumericalExpression(2);
+        Console.WriteLine("sum letters of 2:");
+        Console.WriteLine($"{NumericalExpression.SumLetters(new_number)}");
+
     }
 }
