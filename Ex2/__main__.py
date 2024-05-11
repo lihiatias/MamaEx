@@ -7,7 +7,9 @@ if __name__ == '__main__':
     for option in options:
         print(option)
     word = "abccba"
+    '''
     print(is_sorted_polyndrom(word))
     manipulate()
-    n =input("Enter a natural number")
-    print(reverse_n_pi_digits(n) )
+    '''
+    n = 5
+    print(reverse_n_pi_digits(n))
