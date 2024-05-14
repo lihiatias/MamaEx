@@ -1,3 +1,7 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+
 def enter_numbers() -> list:
     numbers = []
     input_num = 0
@@ -5,7 +9,8 @@ def enter_numbers() -> list:
         input_num = input("Enter numbers until -1").strip()
         try:
             input_num = float(input_num)
-            numbers.append(input_num)
+            if input_num != -1:
+                numbers.append(input_num)
         except:
             print("Only Numbers")
     return numbers
@@ -21,9 +26,12 @@ def manipulate():
             count_positive_numbers += 1
         sum += num
         count_numbers += 1
-
     average = sum / count_numbers
+    show_point_graph(numbers)
+    return average, count_positive_numbers, sorted(numbers)
 
-    print(f"The numbers average :{average}")
-    print(f"The count of positive numbers : {count_positive_numbers}")
-    print(sorted(numbers))
+
+def show_point_graph(numbers: list):
+    ypoints = numbers
+    plt.plot(ypoints)
+    plt.show()
