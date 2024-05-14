@@ -1,0 +1,15 @@
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\bin\Debug\net8.0\Game2048.exe
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\bin\Debug\net8.0\Game2048.deps.json
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\bin\Debug\net8.0\Game2048.runtimeconfig.json
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\bin\Debug\net8.0\Game2048.dll
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\bin\Debug\net8.0\Game2048.pdb
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\Game2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\Game2048.AssemblyInfoInputs.cache
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\Game2048.AssemblyInfo.cs
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\Game2048.csproj.CoreCompileInputs.cache
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\Game2048.sourcelink.json
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\Game2048.dll
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\refint\Game2048.dll
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\Game2048.pdb
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\Game2048.genruntimeconfig.cache
+C:\Users\lihi\MamaEx\gitFile\2048\Game2048\Game2048\obj\Debug\net8.0\ref\Game2048.dll

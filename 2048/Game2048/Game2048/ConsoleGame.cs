@@ -17,7 +17,7 @@
                     int cellValue = game.board.Data[i, j].Value;
                     ConsoleColor cellColor = GetCellColor(cellValue);
                     Console.ForegroundColor = cellColor;
-                    Console.Write($"{cellValue,-5}");
+                    Console.Write($"{cellValue,-10}");
                     Console.ResetColor();
                 }
                 Console.WriteLine();

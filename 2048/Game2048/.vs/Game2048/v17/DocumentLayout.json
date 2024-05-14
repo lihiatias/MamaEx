@@ -3,20 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\consolegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\consolegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,11 +18,20 @@
       "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|c:\\users\\lihi\\mamaex\\gitfile\\2048\\game2048\\game2048\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD22E9-5D1F-4B03-924C-676B8A94D692}|Game2048\\Game2048.csproj|solutionrelative:game2048\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,54 +41,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Game.cs",
-              "RelativeDocumentMoniker": "Game2048\\Game.cs",
-              "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Game.cs",
-              "RelativeToolTip": "Game2048\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:10:00.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Board.cs",
               "RelativeDocumentMoniker": "Game2048\\Board.cs",
               "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Board.cs",
               "RelativeToolTip": "Game2048\\Board.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwFAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T16:28:09.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T16:28:09.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Program.cs",
-              "RelativeDocumentMoniker": "Game2048\\Program.cs",
-              "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Program.cs",
-              "RelativeToolTip": "Game2048\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T16:23:24.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "GameStatus.cs",
               "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\GameStatus.cs",
               "RelativeDocumentMoniker": "Game2048\\GameStatus.cs",
@@ -96,25 +65,24 @@
               "RelativeToolTip": "Game2048\\GameStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T16:27:20.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T16:27:20.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ConsoleGame.cs",
               "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\ConsoleGame.cs",
               "RelativeDocumentMoniker": "Game2048\\ConsoleGame.cs",
               "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\ConsoleGame.cs",
               "RelativeToolTip": "Game2048\\ConsoleGame.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABcAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T09:09:13.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Direction.cs",
               "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Direction.cs",
               "RelativeDocumentMoniker": "Game2048\\Direction.cs",
@@ -122,12 +90,48 @@
               "RelativeToolTip": "Game2048\\Direction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T16:26:07.717Z",
+              "WhenOpened": "2024-05-11T16:26:07.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHoUAAAAAAAAAAD4v4UUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-13T18:23:44.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Game.cs",
+              "RelativeDocumentMoniker": "Game2048\\Game.cs",
+              "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Game.cs",
+              "RelativeToolTip": "Game2048\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:10:00.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Program.cs",
+              "RelativeDocumentMoniker": "Game2048\\Program.cs",
+              "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Program.cs",
+              "RelativeToolTip": "Game2048\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:23:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Cell.cs",
               "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\2048\\Game2048\\Game2048\\Cell.cs",
               "RelativeDocumentMoniker": "Game2048\\Cell.cs",
@@ -135,20 +139,11 @@
               "RelativeToolTip": "Game2048\\Cell.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:35:58.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:35:58.502Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AQIAAHoUAAAAAAAAAAAYwIUUAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-13T18:23:44.381Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
