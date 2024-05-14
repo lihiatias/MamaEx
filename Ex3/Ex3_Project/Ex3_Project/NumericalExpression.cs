@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Globalization;
 using System.Linq;
+using System.Numerics;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace OOP
 {
@@ -62,6 +64,8 @@ namespace OOP
         };
 
         private long input_number;
+        private const string Zero = "Zero";
+        private const string Negative = "Negative";
 
         public NumericalExpression(long numbers) 
         {
@@ -70,10 +74,12 @@ namespace OOP
         public override string ToString()
         {
             if (input_number == 0)
-                return "";
-            string number_in_words = "";
-            number_in_words = Transform(input_number);
-            return number_in_words;
+                return Zero;
+            if (input_number < 0)
+            {
+                return Negative + " " + Transform(Math.Abs(input_number));
+            }
+            return Transform(input_number);
         }
         
         public string Transform(long number)

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lihi\\MamaEx\\gitFile\\Ex3\\Ex3_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|c:\\users\\lihi\\mamaex\\gitfile\\ex3\\ex3_project\\ex3_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|solutionrelative:ex3_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|c:\\users\\lihi\\mamaex\\gitfile\\ex3\\ex3_project\\ex3_project\\numericalexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|solutionrelative:ex3_project\\numericalexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|c:\\users\\lihi\\mamaex\\gitfile\\ex3\\ex3_project\\ex3_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|solutionrelative:ex3_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|c:\\users\\lihi\\mamaex\\gitfile\\ex3\\ex3_project\\ex3_project\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|solutionrelative:ex3_project\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|c:\\users\\lihi\\mamaex\\gitfile\\ex3\\ex3_project\\ex3_project\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D79B8E-30A7-40E1-AE47-870ACCBDB942}|Ex3_Project\\Ex3_Project.csproj|solutionrelative:ex3_project\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\Ex3\\Ex3_Project\\Ex3_Project\\LinkedList.cs",
+              "RelativeDocumentMoniker": "Ex3_Project\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\Ex3\\Ex3_Project\\Ex3_Project\\LinkedList.cs",
+              "RelativeToolTip": "Ex3_Project\\LinkedList.cs",
+              "ViewState": "AQIAAGMAAAAAcOznf9gowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:06:33.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\Ex3\\Ex3_Project\\Ex3_Project\\Node.cs",
+              "RelativeDocumentMoniker": "Ex3_Project\\Node.cs",
+              "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\Ex3\\Ex3_Project\\Ex3_Project\\Node.cs",
+              "RelativeToolTip": "Ex3_Project\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:06:31.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NumericalExpression.cs",
               "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\Ex3\\Ex3_Project\\Ex3_Project\\NumericalExpression.cs",
               "RelativeDocumentMoniker": "Ex3_Project\\NumericalExpression.cs",
               "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\Ex3\\Ex3_Project\\Ex3_Project\\NumericalExpression.cs",
               "RelativeToolTip": "Ex3_Project\\NumericalExpression.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAArwHsAAAAvAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswFAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T13:24:49.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lihi\\MamaEx\\gitFile\\Ex3\\Ex3_Project\\Ex3_Project\\Program.cs",
               "RelativeDocumentMoniker": "Ex3_Project\\Program.cs",
               "ToolTip": "C:\\Users\\lihi\\MamaEx\\gitFile\\Ex3\\Ex3_Project\\Ex3_Project\\Program.cs",
               "RelativeToolTip": "Ex3_Project\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAADgvyQAAABGAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvxYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T13:23:09.725Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\bin\Debug\net8.0\Ex3_Project.exe
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\bin\Debug\net8.0\Ex3_Project.deps.json
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\bin\Debug\net8.0\Ex3_Project.runtimeconfig.json
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\bin\Debug\net8.0\Ex3_Project.dll
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\bin\Debug\net8.0\Ex3_Project.pdb
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\Ex3_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\Ex3_Project.AssemblyInfoInputs.cache
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\Ex3_Project.AssemblyInfo.cs
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\Ex3_Project.csproj.CoreCompileInputs.cache
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\Ex3_Project.sourcelink.json
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\Ex3_Project.dll
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\refint\Ex3_Project.dll
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\Ex3_Project.pdb
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\Ex3_Project.genruntimeconfig.cache
+C:\Users\lihi\MamaEx\gitFile\Ex3\Ex3_Project\Ex3_Project\obj\Debug\net8.0\ref\Ex3_Project.dll

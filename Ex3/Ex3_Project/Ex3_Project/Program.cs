@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-       /* LinkedList linkedList = new LinkedList();
+        LinkedList linkedList = new LinkedList();
         linkedList.Append(3);
         linkedList.Append(1);
         linkedList.Append(4);
@@ -26,8 +26,8 @@ class Program
         {
             Console.Write(value + " ");
         }
-        Console.WriteLine();*/
-        long number = 111999;
+        Console.WriteLine();
+        long number = -111999;
         NumericalExpression tryLo  = new NumericalExpression(number);
         Console.WriteLine($"{number} : {tryLo.ToString()}");
         Console.WriteLine("sum letters of 2:");
