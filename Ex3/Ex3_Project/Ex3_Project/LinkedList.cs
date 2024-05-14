@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OOP
+﻿namespace OOP
 {
     public class LinkedList
     {
@@ -14,7 +7,7 @@ namespace OOP
         private Node maxNode;
         private Node minNode;
 
-        public LinkedList() 
+        public LinkedList()
         {
             tail = null;
             head = null;
@@ -36,7 +29,7 @@ namespace OOP
             {
                 tail.Next = newNode;
                 tail = tail.Next;
-                UpdateMinMax(newNode);  
+                UpdateMinMax(newNode);
             }
         }
 
@@ -54,7 +47,7 @@ namespace OOP
             head = newNode;
             if (tail == null)
                 tail = newNode;
-            UpdateMinMax(newNode) ;
+            UpdateMinMax(newNode);
 
         }
 
@@ -62,7 +55,7 @@ namespace OOP
         {
             return tail.Value;
         }
-        public int Unqueue() 
+        public int Unqueue()
         {
             int head_value = head.Value;
             head = head.Next;

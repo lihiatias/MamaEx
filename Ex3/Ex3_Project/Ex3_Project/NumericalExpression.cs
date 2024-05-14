@@ -1,17 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Globalization;
-using System.Linq;
-using System.Numerics;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace OOP
+﻿namespace OOP
 {
-    
+
     public class NumericalExpression
     {
         private Dictionary<int, string> Digit = new Dictionary<int, string>
@@ -43,7 +32,7 @@ namespace OOP
         };
 
         private Dictionary<int, string> Tens = new Dictionary<int, string>
-        { 
+        {
             {2, "Twenty"},
             {3, "Thirty"},
             {4, "Forty"},
@@ -67,7 +56,7 @@ namespace OOP
         private const string Zero = "Zero";
         private const string Negative = "Negative";
 
-        public NumericalExpression(long numbers) 
+        public NumericalExpression(long numbers)
         {
             this.input_number = numbers;
         }
@@ -81,21 +70,21 @@ namespace OOP
             }
             return Transform(input_number);
         }
-        
+
         public string Transform(long number)
         {
             string number_in_words = "";
             if (number == 0)
                 number_in_words = "";
 
-            if (number>= 1000)
+            if (number >= 1000)
             {
-                number_in_words = $"{Transform(number/1000)}{Units[(int)Math.Log10(number) / 3]} ";
+                number_in_words = $"{Transform(number / 1000)}{Units[(int)Math.Log10(number) / 3]} ";
                 number %= 1000;
             }
             if (number > 100)
             {
-                number_in_words+= $"{Digit[(int)number / 100]} Hundred ";
+                number_in_words += $"{Digit[(int)number / 100]} Hundred ";
                 number = number % 100;
             }
             if (number > 19 && number < 100)
@@ -103,7 +92,7 @@ namespace OOP
                 number_in_words += $"{Tens[(int)number / 10]} ";
                 number = number % 10;
             }
-            
+
             if (number < 20 && number >= 10)
                 number_in_words += $"{Teens[(int)number]} ";
             if (number < 10)
@@ -113,7 +102,7 @@ namespace OOP
 
         public long GetValue()
         {
-            return input_number;   
+            return input_number;
         }
 
         public static int SumLetters(long number)
@@ -121,7 +110,7 @@ namespace OOP
             int count_letters = 0;
             for (long i = 0; i <= number; i++)
             {
-                string words = new NumericalExpression(i).ToString().Replace(" ","");
+                string words = new NumericalExpression(i).ToString().Replace(" ", "");
                 count_letters += words.Length;
             }
             return count_letters;

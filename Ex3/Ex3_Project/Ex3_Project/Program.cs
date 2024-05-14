@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System.Runtime.InteropServices;
 using OOP;
 
 class Program
@@ -28,7 +27,7 @@ class Program
         }
         Console.WriteLine();
         long number = -111999;
-        NumericalExpression tryLo  = new NumericalExpression(number);
+        NumericalExpression tryLo = new NumericalExpression(number);
         Console.WriteLine($"{number} : {tryLo.ToString()}");
         Console.WriteLine("sum letters of 2:");
         Console.WriteLine($"{NumericalExpression.SumLetters(2)}");
